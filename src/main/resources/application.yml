@@ -18,6 +18,8 @@ spring:
     console:
       enabled: true
       path: /h2-console
+      settings:
+        web-allow-others: true
   mvc:
     pathmatch:
       matching-strategy: ant_path_matcher
