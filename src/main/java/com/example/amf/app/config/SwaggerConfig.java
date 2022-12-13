@@ -1,4 +1,4 @@
-package com.example.test.app.config;
+package com.example.amf.app.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
